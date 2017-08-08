@@ -4,7 +4,7 @@
 
 * [Анотация](README.md)
 
-## Methods
+## Методы
 
 * [Defining Methods](methods.md)
 
