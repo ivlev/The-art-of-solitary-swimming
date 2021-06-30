@@ -1,11 +1,13 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Искусство одиночного плавания
 
-* [Анотация](README.md)
-* [Наблюдения](nablyudeniya.md)
+* [Анотация](iskusstvo-odinochnogo-plavaniya/readme.md)
+* [Наблюдения](iskusstvo-odinochnogo-plavaniya/nablyudeniya.md)
 
 ## Методы
 
-* [Определение методов ](methods.md)
+* [Определение методов](metody/methods.md)
 
