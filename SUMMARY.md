@@ -6,6 +6,7 @@
 
 * [Анотация](iskusstvo-odinochnogo-plavaniya/readme.md)
 * [Наблюдения](iskusstvo-odinochnogo-plavaniya/nablyudeniya.md)
+* [Первое, второе и третье измерения](FST-dimention.md)
 
 ## Методы
 
